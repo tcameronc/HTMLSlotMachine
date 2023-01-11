@@ -39,8 +39,8 @@ let index = 0; let slot0 = 0; let slot1 = 0; let slot2 = 0; let n = 0; let m = 0
 
     index = Math.floor( myRange * Math.random());
     if(balance == 0 ){index = 0};
-    $('img:eq(0)').attr('src', imageArray[(index) % (imageArray.length)]);
-    slot0 = index;
+    $('img:eq(0)').attr('src', imageArray[(index) % (imageArray.length)]); //image displayed in slot
+    slot0 = index; //actual number of slot, change all these to the same number to always win
 
     var imageInterval1 = setInterval(function () {
         n = Math.floor( myRange * Math.random())

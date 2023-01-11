@@ -1,11 +1,12 @@
-html { height:100%;}
-body { min-height:100%;}
+body {
 
+}
 .subsection{border: 1px solid #a6a6a6; border-radius: 15px;}
 .imgSubsection{border:1px solid #a6a6a6;
                 border-radius: 15px; background-color:white;
                 padding:15%;
                 }
+
 .part3{
   max-height: 120px;
 }

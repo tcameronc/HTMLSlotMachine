@@ -1,4 +1,5 @@
 
+
 $(document).ready(function() {
 
 const imageArray = ['images/cherry.png','images/grapes.png','images/heart.png','images/lemon.png','images/orange.png','images/seven.png','images/strawberry.png']

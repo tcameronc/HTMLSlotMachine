@@ -1,4 +1,4 @@
-Visual Demonstration (shorturl.at/abFPY)
+Pictures and gifs at https://docs.google.com/document/d/18c7mp2GmfsjL59AmoIBZXXbxGjfosweg_6WnYz4cags/edit
 
 The slot machin game lets a user spin the 3 slots by clicking the spin button. 
 If the 3 images do not match, the bet amount is subtracted from the balance total. 
